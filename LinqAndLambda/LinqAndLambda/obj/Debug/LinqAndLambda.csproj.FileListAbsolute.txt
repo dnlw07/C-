@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.exe
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\bin\Debug\LinqAndLambda.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.exe
+c:\users\daniel\documents\visual studio 2015\Projects\LinqAndLambda\LinqAndLambda\obj\Debug\LinqAndLambda.pdb

@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\bin\Debug\ExceptionsAndEvents2.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\obj\Debug\ExceptionsAndEvents2.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\bin\Debug\ExceptionsAndEvents2.exe
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\bin\Debug\ExceptionsAndEvents2.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\obj\Debug\ExceptionsAndEvents2.exe
+c:\users\daniel\documents\visual studio 2015\Projects\ExceptionsAndEvents2\ExceptionsAndEvents2\obj\Debug\ExceptionsAndEvents2.pdb

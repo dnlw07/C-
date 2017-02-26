@@ -1,0 +1,1 @@
+c:\users\daniel\documents\visual studio 2015\Projects\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe.config

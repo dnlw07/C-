@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\bin\Debug\AssembliesAndNamepaces.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\obj\Debug\AssembliesAndNamepaces.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\bin\Debug\AssembliesAndNamepaces.exe
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\bin\Debug\AssembliesAndNamepaces.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\obj\Debug\AssembliesAndNamepaces.exe
+c:\users\daniel\documents\visual studio 2015\Projects\AssembliesAndNamepaces\AssembliesAndNamepaces\obj\Debug\AssembliesAndNamepaces.pdb

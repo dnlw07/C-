@@ -1,0 +1,4 @@
+c:\users\daniel\documents\visual studio 2015\Projects\MyCodeLibary\MyCodeLibary\bin\Release\MyCodeLibary.dll
+c:\users\daniel\documents\visual studio 2015\Projects\MyCodeLibary\MyCodeLibary\bin\Release\MyCodeLibary.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\MyCodeLibary\MyCodeLibary\obj\Release\MyCodeLibary.dll
+c:\users\daniel\documents\visual studio 2015\Projects\MyCodeLibary\MyCodeLibary\obj\Release\MyCodeLibary.pdb

@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+c:\users\daniel\documents\visual studio 2015\Projects\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe

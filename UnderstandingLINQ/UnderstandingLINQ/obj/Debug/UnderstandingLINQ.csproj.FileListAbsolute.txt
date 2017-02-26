@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+c:\users\daniel\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

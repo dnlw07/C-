@@ -1,0 +1,21 @@
+Login using bash:
+git config --global user.name "dnlw07"
+git config --globa user.email "dnlw07@gmail.com"
+
+Download fiels from GitHub:
+cd Dektop
+git clone <copied link>
+
+open a text file:
+vim README.md
+prest <INSTERT> to edit file
+press <ESC> to leave editor
+:x - to exit
+
+check what have been modified:
+git status
+
+upload new version:
+git add README.md
+git commit -m "comment: updater readme for beter description"
+git log
